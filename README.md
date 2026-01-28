@@ -1,6 +1,6 @@
 # 🚀 Portfolio - Dorian François
 
-Portfolio professionnel moderne construit avec **React + Vite**, mettant en valeur mes compétences en tant que **Data Project Manager**.
+Portfolio professionnel moderne construit avec **React + Vite**.
 
 ![React](https://img.shields.io/badge/React-19.0.0-61DAFB?logo=react)
 ![Vite](https://img.shields.io/badge/Vite-7.3.1-646CFF?logo=vite)
